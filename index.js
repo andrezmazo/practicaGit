@@ -16,7 +16,7 @@
 // borrar el remote origin  git remote remove origin
 // git push origin master // sube el archivo 
 // developers setigs en github para generar tokens 
-//git clone pagina / se clona todos los archivos de la pagina 
+// git clone pagina / se clona todos los archivos de la pagina 
 // borra rm -r
 
 
